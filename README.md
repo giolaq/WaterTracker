@@ -24,3 +24,5 @@ With HMS ML Kit Sound detection you will be able to detect up to 12 different so
 In this app you can detect the water running that will start a counter stating the consumed litres.
 
 The UI is developed with Jetpack Compose reacting seamlessly to the detected sound.
+
+<img src="watertracker.gif" width="260">
